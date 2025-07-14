@@ -1,4 +1,4 @@
-# NuTech 360° Virtual Tour
+# NUTECH 360° Virtual Tour
 
 ## Project Overview
 
@@ -111,7 +111,7 @@ Hotspots are interactive points on a 360° panoramic image that users can click 
 
 ## Contact
 
-Our Team members:
+Our Team :
 - Saqlain Abbas (saqlainrazee@gmail.com)
 - Aleena Tahir (aleenatahirf23@nutech.edu.pk)
 - Aena Habib (aenahabibf23@nutech.edu.pk)
